@@ -23,7 +23,7 @@ multiprocessing
 
 ## Overview :
 
-model_resnet.ipynb - main model which has the best accuracy.
+miniproject.ipynb - main model which uses adaDelta optimizer and  has the best accuracy.
 
 model_adam.ipynb - to show the test accuracy for adam optimizer
 
