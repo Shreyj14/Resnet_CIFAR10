@@ -21,7 +21,7 @@ tqdm
 
 multiprocessing
 
-##Overview :
+## Overview :
 
 model_resnet.ipynb - main model which has the best accuracy.
 
