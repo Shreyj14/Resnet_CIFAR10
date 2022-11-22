@@ -24,9 +24,13 @@ multiprocessing
 ##Overview :
 
 model_resnet.ipynb - main model which has the best accuracy.
+
 model_adam.ipynb - to show the test accuracy for adam optimizer
+
 model_adagrad - to show the test accuracy for adagrad optimizer
+
 architeture_diagram.jpeg - The entire architectureof our resnet model
+
 model1.pt - best model saved.
 
 ## Results
